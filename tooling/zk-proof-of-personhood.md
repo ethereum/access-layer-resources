@@ -3,7 +3,7 @@ name: zk-proof-of-personhood
 last_reviewed: 2026-10-06
 maturity: usable
 implements: [anonymous-credentials]
-conforms_to: [https://github.com/ethereum/access-layer-specs/blob/main/specs/5-zk-proof-of-personhood/README.md]
+specs: [https://github.com/ethereum/access-layer-specs/blob/main/specs/5-zk-proof-of-personhood/README.md]
 guarantees: [I-1, I-3]
 ---
 

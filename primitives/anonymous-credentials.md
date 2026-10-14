@@ -3,7 +3,6 @@ name: anonymous-credentials
 last_reviewed: 2026-08-19
 maturity: usable
 guarantees: [I-1, I-3, I-5]
-specs: [https://github.com/ethereum/access-layer-specs/blob/main/specs/2-anon-aadhaar-v2/README.md, https://github.com/ethereum/access-layer-specs/blob/main/specs/5-zk-proof-of-personhood/README.md]
 
 related:
   requires: []
