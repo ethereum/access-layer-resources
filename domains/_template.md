@@ -16,7 +16,7 @@ The functions an application in this domain performs. Guarantees attach to these
 
 ## Guarantees
 
-One block per guarantee. The `### <ID>:` heading is the guarantee's declaration. IDs are permanent, never renumber. The bullet fields below are a fixed, parseable format; see [CLAUDE.md](../CLAUDE.md).
+One block per guarantee. The `### <ID>:` heading is the guarantee's declaration. IDs are permanent, never renumber. The bullet fields below are a fixed, parseable format; see [AGENTS.md](../AGENTS.md).
 
 ### <ID>: <short name> [<CROPS letters>]
 

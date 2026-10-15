@@ -43,7 +43,7 @@ Circuit soundness plus the proof system's ceremony carry the cryptography. The r
 
 ## Implementations
 
-[Semaphore](https://github.com/semaphore-protocol/semaphore) (PSE; v4 audited, trusted-setup ceremony completed 2024) with sustained use across [Zupass](https://github.com/proofcarryingdata/zupass) and others; a modified fork underlies a major proof-of-personhood system. Tooling cards pending.
+[Semaphore](https://github.com/semaphore-protocol/semaphore) (PSE; v4 audited, trusted-setup ceremony completed 2024) with sustained use across [Zupass](https://github.com/proofcarryingdata/zupass) and others; a modified fork underlies a major proof-of-personhood system. Tooling card: [semaphore](../tooling/semaphore.md).
 
 ## Further reading
 

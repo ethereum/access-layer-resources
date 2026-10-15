@@ -1,11 +1,11 @@
 # Contributing
 
-This repository maps application domains to the CROPS guarantees they can offer users, the primitives behind those guarantees, and the tooling that ships them. [README.md](README.md) explains the structure; [CLAUDE.md](CLAUDE.md) is the authoritative rule set that this guide summarizes.
+This repository maps application domains to the CROPS guarantees they can offer users, the primitives behind those guarantees, and the tooling that ships them. [README.md](README.md) explains the structure; [AGENTS.md](AGENTS.md) is the authoritative rule set that this guide summarizes.
 
 ## Ground rules
 
 - Descriptive voice: properties and facts, no recommendations, no RFC-2119 keywords (MUST, SHOULD).
-- No marketing language. Every adjective must be checkable; the banned vocabulary list lives in [CLAUDE.md](CLAUDE.md).
+- No marketing language. Every adjective must be checkable; the banned vocabulary list lives in [AGENTS.md](AGENTS.md).
 - Never name applications in gap descriptions; naming them as factual implementations with source links is fine.
 - One concept per file, frontmatter per the `_template.md` of each folder, cross-references by ID and slug rather than restated text.
 

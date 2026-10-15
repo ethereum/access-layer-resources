@@ -43,7 +43,7 @@ The issuer vouches for claim truth and nothing else: a lying issuer produces val
 
 ## Implementations
 
-[ZKPassport](https://github.com/zkpassport/circuits) (passport and eID predicates, live apps and SDK) and [zkEmail](https://github.com/zkemail) (email predicates, circuits and SDKs). Tooling cards pending.
+[ZKPassport](https://github.com/zkpassport/circuits) (passport and eID predicates, live apps and SDK) and [zkEmail](https://github.com/zkemail) (email predicates, circuits and SDKs); tooling cards for both pending. Tooling card: [zk-proof-of-personhood](../tooling/zk-proof-of-personhood.md), proof of personhood from X.509 certificates.
 
 ## Further reading
 

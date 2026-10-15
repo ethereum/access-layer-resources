@@ -7,7 +7,7 @@ This repository describes, in first-principles terms, the guarantees a CROPS-ali
 ## Who this is for
 
 - **Application builders** (wallets, DEXes, oracles, and other domains): start from your domain page and follow the links.
-- **Anyone using an LLM to work on these topics**: the repository is structured as high-quality model context. One concept per file, strict frontmatter, stable cross-reference IDs. See [CLAUDE.md](./CLAUDE.md).
+- **Anyone using an LLM to work on these topics**: the repository is structured as high-quality model context. One concept per file, strict frontmatter, stable cross-reference IDs. See [AGENTS.md](./AGENTS.md).
 
 ## How to navigate
 

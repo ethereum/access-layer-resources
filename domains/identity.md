@@ -60,4 +60,5 @@ Identity applications let users prove things about themselves: names, credential
 
 Integration guides by guarantee, added as tooling cards land:
 
+- I-1, I-3: [zk-proof-of-personhood](../tooling/zk-proof-of-personhood.md)
 - I-4, I-5: [semaphore](../tooling/semaphore.md)
